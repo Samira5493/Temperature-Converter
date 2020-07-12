@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    
+
+    <string name="celsius_to_fahrenheit">Celsius To Fahrenheit</string>
+    <string name="fahrenheit_to_celsius">Fahrenheit To Celsius</string>
+    <string name="convert">Convert</string>
+    <string name="enter_temperature">Enter Temperature</string>
+
+</resources>
